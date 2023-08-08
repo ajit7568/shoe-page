@@ -1,4 +1,5 @@
 # shoe-page
+https://ajit7568.github.io/shoe-page/
 <!-- This is an HTML document -->
 <!DOCTYPE html>
 <html lang="en">
@@ -42,13 +43,13 @@
     </div>
 </body>
 </html>
-
+css code
 /* Apply a CSS reset to reset margins, paddings, and box sizing for all elements */
-* {
+   * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+    }
 
 /* Set the background color of the body */
 body {
